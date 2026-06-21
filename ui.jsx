@@ -5,7 +5,7 @@ export const T = {
   amber:"#f59e0b", gold:"#f4c03c", green:"#10b981", blue:"#3b82f6", purple:"#8b5cf6",
   red:"#ef4444", orange:"#f97316", cyan:"#06b6d4", pink:"#ec4899",
   text:"#e2e8f0", muted:"#64748b", dim:"#334155",
-};
+} 
 
 export const IC = {
   search:"M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z",
